@@ -3,6 +3,8 @@ Essentially just a front end to HTMLMediaElement.
 You can bind an array of media files (name/src pair objects) and they will be listed as available
 files to play when rendered.
 
+![alt text](https://github.com/mvcuccaro/vueamp/blob/master/vueampscreenshot.png)
+
 
 Import the vueamp component into your vue app component and provide some audio source objects 
 ```javascript
