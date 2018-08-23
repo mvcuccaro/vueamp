@@ -27,7 +27,7 @@ data () {
     			name: 'The Periss Correlation'
     		}]
     	}
-  	}
+}
 ```
 
 put the audio-player element in your html and bind the array of audio sources
