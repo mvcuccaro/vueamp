@@ -1,7 +1,7 @@
 Single file vue component media player.  
 Essentially just a front end to HTMLMediaElement.
 You can bind an array of media files (name/src pair objects) and they will be listed as available
-files to play when rendered.
+files to play when rendered. Demo at https://www.michaelcuccaro.com/
 
 ![alt text](https://github.com/mvcuccaro/vueamp/blob/master/vueampscreenshot.png)
 
